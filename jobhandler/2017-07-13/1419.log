@@ -1,0 +1,6 @@
+2017-07-13 17:32:03 [com.xxl.job.core.thread.JobThread]-[run]-[109]-[Thread-26] <br>----------- xxl-job job execute start -----------<br>----------- Params:null
+2017-07-13 17:32:03 [com.xxl.job.core.handler.impl.ScriptJobHandler]-[execute]-[53]-[Thread-26] ----------- script file:E:/baiduyun/å„ç§é¡¹ç›®æºç /ä»»åŠ¡è°ƒåº¦æºç /jobhandler/gluesource/6_1499940098000.py -----------
+xxl-job: hello python
+è„šæœ¬æ–‡ä»¶ï¼š E:/baiduyun/¸÷ÖÖÏîÄ¿Ô´Âë/ÈÎÎñµ÷¶ÈÔ´Âë/jobhandler/gluesource/6_1499940098000.py
+Good bye!
+2017-07-13 17:32:03 [com.xxl.job.core.thread.JobThread]-[run]-[116]-[Thread-26] <br>----------- xxl-job job execute end(finish) -----------<br>----------- ReturnT:ReturnT [code=200, msg=null, content=null]

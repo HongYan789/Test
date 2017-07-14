@@ -1,0 +1,3 @@
+2017-07-13 18:30:18 [com.xxl.job.core.thread.JobThread]-[run]-[109]-[Thread-26] <br>----------- xxl-job job execute start -----------<br>----------- Params:null
+2017-07-13 18:30:18 [com.xxl.job.executor.service.jobhandler.TestJobHandler]-[execute]-[35]-[Thread-26] WENWEN HAHAHAH
+2017-07-13 18:30:18 [com.xxl.job.core.thread.JobThread]-[run]-[116]-[Thread-26] <br>----------- xxl-job job execute end(finish) -----------<br>----------- ReturnT:ReturnT [code=200, msg=null, content=null]

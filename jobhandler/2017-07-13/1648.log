@@ -1,0 +1,8 @@
+2017-07-13 18:35:41 [com.xxl.job.core.thread.JobThread]-[run]-[109]-[Thread-26] <br>----------- xxl-job job execute start -----------<br>----------- Params:null
+2017-07-13 18:35:41 [com.xxl.job.executor.service.jobhandler.DemoJobHandler]-[execute]-[29]-[Thread-26] MY-XXL-JOB, Hello World. hahahahhahahahha
+2017-07-13 18:35:41 [com.xxl.job.executor.service.jobhandler.DemoJobHandler]-[execute]-[32]-[Thread-26] hahahahhahahahha beat at:0
+2017-07-13 18:35:41 [com.xxl.job.executor.service.jobhandler.DemoJobHandler]-[execute]-[32]-[Thread-26] hahahahhahahahha beat at:1
+2017-07-13 18:35:41 [com.xxl.job.executor.service.jobhandler.DemoJobHandler]-[execute]-[32]-[Thread-26] hahahahhahahahha beat at:2
+2017-07-13 18:35:41 [com.xxl.job.executor.service.jobhandler.DemoJobHandler]-[execute]-[32]-[Thread-26] hahahahhahahahha beat at:3
+2017-07-13 18:35:41 [com.xxl.job.executor.service.jobhandler.DemoJobHandler]-[execute]-[32]-[Thread-26] hahahahhahahahha beat at:4
+2017-07-13 18:35:41 [com.xxl.job.core.thread.JobThread]-[run]-[116]-[Thread-26] <br>----------- xxl-job job execute end(finish) -----------<br>----------- ReturnT:ReturnT [code=200, msg=null, content=null]

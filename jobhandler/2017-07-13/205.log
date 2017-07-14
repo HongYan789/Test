@@ -1,0 +1,20 @@
+2017-07-13 18:25:47 [com.xxl.job.core.thread.JobThread]-[run]-[109]-[Thread-27] <br>----------- xxl-job job execute start -----------<br>----------- Params:null
+2017-07-13 18:25:47 [com.xxl.job.core.handler.impl.ScriptJobHandler]-[execute]-[53]-[Thread-27] ----------- script file:E:/baiduyun/各种项目源码/任务调度源码/jobhandler/gluesource/2_1499941392000.sh -----------
+2017-07-13 18:25:47 [com.xxl.job.core.thread.JobThread]-[run]-[127]-[Thread-27] <br>----------- JobThread Exception:java.io.IOException: Cannot run program "bash" (in directory "."): CreateProcess error=2, ϵͳÕҲ»µ½ָ¶
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	at java.lang.Runtime.exec(Runtime.java:615)
+	at org.apache.commons.exec.launcher.Java13CommandLauncher.exec(Java13CommandLauncher.java:61)
+	at org.apache.commons.exec.DefaultExecutor.launch(DefaultExecutor.java:279)
+	at org.apache.commons.exec.DefaultExecutor.executeInternal(DefaultExecutor.java:336)
+	at org.apache.commons.exec.DefaultExecutor.execute(DefaultExecutor.java:166)
+	at org.apache.commons.exec.DefaultExecutor.execute(DefaultExecutor.java:153)
+	at com.xxl.job.core.util.ScriptUtil.execToFile(ScriptUtil.java:90)
+	at com.xxl.job.core.handler.impl.ScriptJobHandler.execute(ScriptJobHandler.java:54)
+	at com.xxl.job.core.thread.JobThread.run(JobThread.java:111)
+Caused by: java.io.IOException: CreateProcess error=2, ϵͳÕҲ»µ½ָ¶
+	at java.lang.ProcessImpl.create(ProcessImpl.java)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:189)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:133)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1021)
+	... 9 more
+<br>----------- xxl-job job execute end(error) -----------
